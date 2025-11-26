@@ -1,0 +1,5 @@
+{
+  "name": "NeuroCards Flashcard Generator",
+  "description": "A psychology-enhanced flashcard learning system. Create flashcards from text and study them with an interactive, animated interface. Supports exporting to Anki format.",
+  "requestFramePermissions": []
+}
